@@ -10,32 +10,13 @@
 
 ### Stack
 
-<table align="center">
-  <tr>
-    <td align="right"><b>Lenguajes</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=ts,js,java,cs,py,rust,c,cpp,ruby" height="32" alt="lenguajes" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Desarrollo web</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,angular,html,css" height="32" alt="desarrollo web" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Bases de datos</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="bases de datos" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Sistemas &amp; herramientas</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=linux,bash,git" height="32" alt="sistemas y herramientas" />
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **Lenguajes** | TypeScript, JavaScript, PHP, Java, C#, Python, Rust, C, C++, Ruby |
+| **Desarrollo web** | React, Angular, PHP, HTML, CSS |
+| **Bases de datos** | SQL (MySQL) |
+| **Sistemas y herramientas** | Linux, Bash, Git |
+| **Seguridad** | Desarrollo seguro, POO seguro, OWASP |
 
 <br />
 
