@@ -42,6 +42,10 @@
 **Bases de datos**
 <p>
   <img src="https://img.shields.io/badge/-SQL_(MySQL)-4479A1?style=for-the-badge" alt="SQL (MySQL)" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-MongoDB-3FA037?style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-InfluxDB-46B8DA?style=for-the-badge" alt="InfluxDB" />
+  <img src="https://img.shields.io/badge/-MariaDB-773B37?style=for-the-badge" alt="MariaDB" />
 </p>
 
 **Sistemas y herramientas**
