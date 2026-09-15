@@ -14,33 +14,25 @@
   <tr>
     <td align="right"><b>Lenguajes</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=py,js,ts,java,cs,php,lua,bash,html,css" height="32" alt="lenguajes" />
+      <img src="https://skillicons.dev/icons?i=ts,js,java,cs,py,rust,c,cpp,ruby" height="32" alt="lenguajes" />
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Frameworks</b></td>
+    <td align="right"><b>Desarrollo web</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,vue,bootstrap" height="32" alt="frameworks" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="32" alt="vuetify" />
+      <img src="https://skillicons.dev/icons?i=react,angular,html,css" height="32" alt="desarrollo web" />
     </td>
   </tr>
   <tr>
     <td align="right"><b>Bases de datos</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="32" alt="bases de datos" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="32" alt="oracle" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="bases de datos" />
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Cloud &amp; DevOps</b></td>
+    <td align="right"><b>Sistemas &amp; herramientas</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,linux,azure,gcp,firebase" height="32" alt="cloud y devops" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Herramientas</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode,unity" height="32" alt="herramientas" />
+      <img src="https://skillicons.dev/icons?i=linux,bash,git" height="32" alt="sistemas y herramientas" />
     </td>
   </tr>
 </table>
