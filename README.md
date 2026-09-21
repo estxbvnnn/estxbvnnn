@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Esteban 👋</h1>
-<p align="center"><a href="https://rustaco.co">rustaco.co</a></p> CEO
+<p align="center"><a href="https://rustaco.co">rustaco.co</a></p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7289DA&center=true&vCenter=true&width=520&lines=Desarrollador+Full+Stack;TypeScript+%7C+React+%7C+Angular+%7C+PHP" alt="Typing SVG" />
